@@ -1,0 +1,4 @@
+.env
+certs/
+nginx.conf
+vw-data/*
